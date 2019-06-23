@@ -2,7 +2,8 @@
 
 Adds time to kill to your combat log. Currently only works when not in a party, and when fighting just one mob per combat.
 
-![screenshot.png](KillTimer in action)
+![KillTimer in action](screenshot.png)
+
 
 ## Installation
 
