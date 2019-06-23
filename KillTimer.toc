@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: KillTimer
+## Author: Earthspeed
+## Version: 0.0.1
+## Notes: Tracks time to kill on hostile targets
+## Dependencies: 
+## OptionalDeps:
+## SavedVariablesPerCharacter: KillTimerCharacterGlobals
+## SavedVariables: KillTimerGlobals
+KillTimer.lua
+KillTimer.xml
